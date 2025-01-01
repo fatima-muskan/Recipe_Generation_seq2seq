@@ -22,5 +22,5 @@ The dataset was sourced from **Recipe Box** and contains pairs of ingredients an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/recipe-generation.git
+   git clone [https://github.com/fatima-muskan/Recipe_Generation_seq2seq]
    cd recipe-generation
